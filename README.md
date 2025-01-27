@@ -17,6 +17,12 @@ Data Storage
 
 -Firebase
 
-![YKS’YE EN İYİ ŞEKİLDE HAZIRLAN (1)](https://github.com/necipfazilgocer/yks/assets/114177524/4665970c-9cfe-4103-bea9-163f9c6e8549)
-![Konu Anlatımı](https://github.com/necipfazilgocer/yks/assets/114177524/8c1539d7-71ae-421d-8a94-5868cd14dddf)
-![Konu Anlatımı (1)](https://github.com/necipfazilgocer/yks/assets/114177524/c0f272c4-291e-40eb-8cc7-9679bb70f17d)
+
+
+
+
+![1](https://github.com/user-attachments/assets/c6b9ac40-3631-43f1-b182-4b21185b1b5d)
+![2](https://github.com/user-attachments/assets/423c1c9b-25d5-441c-a0cd-00843279cf72)
+![3](https://github.com/user-attachments/assets/f93bc2f7-2e96-419a-8826-818c3331d19d)
+![4](https://github.com/user-attachments/assets/34b8a791-0467-420a-9ccc-040b2c7f7dfa)
+
