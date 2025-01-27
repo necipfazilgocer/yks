@@ -1,6 +1,8 @@
 # Sınav Çatısı
 
 
+Uygulama Linki: https://apps.apple.com/tr/app/s%C4%B1nav-%C3%A7at%C4%B1s%C4%B1-tyt-ayt-haz%C4%B1rl%C4%B1k/id6461726612?l=tr
+
 Design Pattern
 
 -Viper
